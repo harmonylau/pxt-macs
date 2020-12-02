@@ -1,7 +1,8 @@
 enum Food {
-    Burger = 0,
-    Fries = 1,
-    IceCream = 2
+    McSpicy = 0,
+    McChicken = 1,
+    Fries = 2,
+    IceCream = 3
 }
 
 enum Drinks {
